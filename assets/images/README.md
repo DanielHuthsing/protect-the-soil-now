@@ -2,13 +2,13 @@
 
 Drop image files in this folder using the **exact filenames** below. The site picks them up automatically — no code changes needed.
 
-If a file is missing, the site falls back gracefully (e.g. the hero shows its green gradient instead of failing).
+If a file is missing, the site falls back gracefully (e.g. the hero shows its terracotta gradient instead of failing).
 
 ---
 
 ## `hero.jpg`
 
-**Where it appears:** Hero section background ("We Want a Farm.")
+**Where it appears:** Hero section background ("Protect the Soil Now!")
 
 **Recommended:**
 - Format: JPG (or `hero.png` / `hero.webp` if you prefer — but you'll need to rename the file)
@@ -16,9 +16,9 @@ If a file is missing, the site falls back gracefully (e.g. the hero shows its gr
 - Subject: farm landscape, golden hour preferred; avoid busy details in the center-left third where the headline sits
 - File size: keep under ~600 KB (compress with TinyPNG, Squoosh, or similar)
 
-**Treatment:** A dark green overlay is automatically applied so the white headline stays legible. You don't need to dim the photo yourself.
+**Treatment:** A dark terracotta/brown overlay is automatically applied so the white headline stays legible. You don't need to dim the photo yourself.
 
-**Fallback:** If `hero.jpg` is missing, the section shows the existing dark-green gradient.
+**Fallback:** If `hero.jpg` is missing, the section shows the existing terracotta gradient.
 
 ---
 
