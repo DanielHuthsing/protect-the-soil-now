@@ -1,10 +1,10 @@
 {
-  // Static-site Worker for Protect Fairview Gardens.
+  // Static-site Worker for Protect the Soil Now.
   // The repo root is the web root: index.html plus the assets/ and documents/
   // directories. Declaring the assets directory here lets the Cloudflare
   // Workers build deploy with `wrangler versions upload` / `wrangler deploy`
   // on every branch without relying on a dashboard-only --assets flag.
-  "name": "fairview-gardens",
+  "name": "protect-the-soil-now",
   "compatibility_date": "2026-06-03",
   "assets": {
     "directory": "."
