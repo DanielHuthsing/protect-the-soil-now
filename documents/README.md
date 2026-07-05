@@ -16,13 +16,17 @@ YYYY-MM_short-description.pdf
 - Follow with a short, lowercase, hyphenated description.
 - No spaces, no capital letters, no special characters.
 
-## Published at launch
-
-Drop this file in to activate the one card on the site:
+## Published
 
 ### `2024-12_cup-project-description.pdf`
 
 - **Card:** CUP Project Description (December 2024)
+- **Linked from:** Documents section -> "Download" button
+- **If missing:** the Download button returns a 404; the card still displays.
+
+### `2026-07_planning-commission-hearing-notice.pdf`
+
+- **Card:** Notice of Public Hearing (July 2026)
 - **Linked from:** Documents section -> "Download" button
 - **If missing:** the Download button returns a 404; the card still displays.
 
